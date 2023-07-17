@@ -1,9 +1,13 @@
 {
   "name": "ng-adblock-detect",
   "version": "1.0.2",
+  "author": "Stuart Cargill",
   "contributors": [
-    "Stuart Cargill",
-    "Junior Messias"
+      {
+        "name" : "Júnior Messias",
+        "email" : "contato@jrmessias.com",
+        "url" : "http://jrmessias.com"
+      }
   ],
   "description": "Adblock detector for Angular 8+ applications",
   "license": "MIT",
@@ -28,8 +32,8 @@
     "url": "https://github.com/jrmessais/ng-adblock-detect.git"
   },
   "peerDependencies": {
-    "@angular/core": "^8.0.0",
-    "@angular/common": "^8.0.0"
+    "@angular/core": "^9.0.0",
+    "@angular/common": "^9.0.0"
   },
   "dependencies": {
     "@angular/animations": "~9.1.6",
